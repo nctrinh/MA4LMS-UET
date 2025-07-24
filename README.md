@@ -10,7 +10,7 @@ Follow the steps below to install and run the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/nctrinh/MA4LMS-UET.git](https://github.com/nctrinh/MA4LMS-UET.git)
+    git clone https://github.com/nctrinh/MA4LMS-UET.git
     cd MA4LMS-UET
     ```
 2.  **Create a virtual environment**
