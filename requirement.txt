@@ -1,6 +1,7 @@
-langchain==0.3.25
-langchain_core==0.3.62
-langgraph==0.4.7
+langchain==0.3.26
+langchain-core==0.3.72
+langgraph==0.5.4
 langgraph-cli[inmem]
 python-dotenv==1.1.0
 neo4j==5.28.1
+langchain-openai==0.3.28
